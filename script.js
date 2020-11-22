@@ -15,4 +15,5 @@ let appData = {
     income: arr,
     savings: false
 }
+alert(appData.Money*appData.timeData);
 
